@@ -1,0 +1,14 @@
+{
+  "name": "practice_private_blockchain_code_session",
+  "version": "1.0.0",
+  "description": "To use this boilerplate code locally follow this steps:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}

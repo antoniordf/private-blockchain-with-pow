@@ -1,6 +1,6 @@
 # Blockchain Data
 
-This is a simplified blockchain without a consensus algorithm.
+This is a simplified blockchain with a simple Proof of Work consensus algorithm.
 
 To use this boilerplate code locally follow this steps:
 
